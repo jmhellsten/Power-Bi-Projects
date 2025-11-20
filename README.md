@@ -21,4 +21,4 @@ Links to Power BI Service:
 
 [World Population](https://app.powerbi.com/groups/me/reports/d4c357a5-5ae2-4c76-af0e-993287105eba/52331e3d71b692737006?experience=power-bi)
 
-![Same Directory Image](woeld_population_reort_2021.png)
+![WPR](world_population_report_2021.png)
