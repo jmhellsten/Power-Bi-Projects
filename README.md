@@ -17,7 +17,7 @@ Links to Power BI Service:
 
 [Data Jobs Dashboard](https://app.powerbi.com/groups/me/reports/411ac543-7497-482a-8f65-7c65791371c0/31435a5aff9fcb6ff281?experience=power-bi)
 
-![Same Directory Image](photo.jpg)
+![DJDB](data_jobs_dashboard_screenshot.png)
 
 [World Population](https://app.powerbi.com/groups/me/reports/d4c357a5-5ae2-4c76-af0e-993287105eba/52331e3d71b692737006?experience=power-bi)
 
