@@ -13,7 +13,7 @@ Links to Power BI Service:
 
 [(Data Jobs 2.09](https://app.powerbi.com/groups/me/reports/171fa211-44ba-40c5-afdb-35a92666b505/689d2d593ce35984360b?experience=power-bi)
 
-!Data_jobs_2.0) data jobs dashboard screenshot.png)
+!Data_jobs_2.0)(data jobs dashboard screenshot.png)
 
 [Data Jobs Dashboard](https://app.powerbi.com/groups/me/reports/411ac543-7497-482a-8f65-7c65791371c0/31435a5aff9fcb6ff281?experience=power-bi)
 
